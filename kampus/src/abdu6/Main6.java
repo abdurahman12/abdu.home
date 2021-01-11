@@ -6,7 +6,8 @@ public class Main6 {
         int b = 3;
         int c = 4;
         System.out.println("V=" + a * b * c);
-        System.out.println("S=" + 2 * (a * b * b * c + a * c));
+        System.out.println("S=" + 2 * (a * b + b * c + a * c));
 
     }
+
 }
