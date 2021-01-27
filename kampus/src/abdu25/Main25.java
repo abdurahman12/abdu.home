@@ -18,7 +18,7 @@ public class Main25 {
             d=0;
             k=0;
             System.out.println("новые знание раваны " +k + ""+d);
-            
+
 
         }
     }

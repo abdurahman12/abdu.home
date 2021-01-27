@@ -19,7 +19,7 @@ public class Main28 {
                     System.out.println("наименьшее число"+h);
                 if (b==a)
                     if (b==h)
-                        System.out.println("среднее число"+h);
+                        System.out.println("среднее число"+h );
 
     }
 }
