@@ -6,7 +6,7 @@ public class Main40 {
          double sum = 0;
          for (int i = 1; i <=i;i++ );
 sum =sum + 1 ;
-        System.out.println("Sum=" + sum );
+        System.out.println("Sum=" +  sum );
 
     }
 }
