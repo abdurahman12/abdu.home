@@ -8,6 +8,6 @@ public class Main36 {
         System.out.println("Введите цену:");
         double stul = abdu.nextInt();
         for (double weight = 1.2; weight <=2;weight ++);
-        System.out.println(  "два килограмма яблок стоят " +(stul));
+        System.out.println(  "два килограмма яблок стоят " +(stul   ));
     }
 }
